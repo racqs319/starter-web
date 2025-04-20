@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jonathan Jackson -- jonathan.jackson@gmail.com -- @jcjackson
 
 # THANKS
 
